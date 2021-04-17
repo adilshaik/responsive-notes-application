@@ -1,0 +1,1 @@
+This is a project, where we can create the notes. I used localstorage to store the data of notes and title. I used Bootstrap and javascript and it is fully responsive.
